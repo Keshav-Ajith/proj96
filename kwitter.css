@@ -1,0 +1,45 @@
+#login_div
+{
+	background-color: lightgreen;
+	text-align: center;
+	padding: 10;
+	width: 100%;
+}
+
+body
+{
+	text-align: center;
+	background-color: aqua;
+}
+
+.header
+{
+	background-color: darkgreen;
+	color: white;
+	font-weight: bold;
+	padding: 40;
+}
+
+#img1
+{
+	width : 320;
+	height: 320;
+	text-align: right;
+
+}
+
+#title
+{
+	background-color: lightgreen;
+}
+
+#user_name
+{
+	text-align: center;
+}
+
+#logo
+{
+	width: 350;
+	height: 350;
+}
